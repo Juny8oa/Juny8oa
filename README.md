@@ -1,10 +1,10 @@
-<h1>Hi, I'm Eufemio, Can call me Junior! <br/><a href="https://github.com/joshmadakor1">IT Support Pro</a>, <a href="https://www.linkedin.com/in/eufemio-ochoa-b42099178
+<h1>Hi, I'm Eufemio, Can call me Junior! <br/><a href="https://github.com/Juny8oa">IT Support Prossional</a></h1>
 
-/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
 
- - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+<h2>👨‍💻 IT Support Projects</h2>
+
+- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 <h2>📃 Certifications</h2>
 
 - [Google IT Support Professional](https://coursera.org/share/8e84cecd79d85f88852d1d1ee35369d0)
