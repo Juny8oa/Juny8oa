@@ -1,4 +1,6 @@
-<h1>Hi, I'm Eufemio, Can call me Junior! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Eufemio, Can call me Junior! <br/><a href="https://github.com/joshmadakor1">IT Support Pro</a>, <a href="https://www.linkedin.com/in/eufemio-ochoa-b42099178
+
+/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
